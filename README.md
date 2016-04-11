@@ -16,7 +16,7 @@ I am looking for a junior development opportunity that will allow me to work alo
 * Experience using databases PostgreSQL and Firebase
 
 ## Education
-### Makers Academy (November 2015-February 2016)
+### Makers Academy (November 2015 - February 2016)
 My decision to learn with Makers was a result of my bubbling curiosity in the tech industry and my desire to be able to create something from an idea with code.
 * Practiced TDD from day one
 * Taught best practice as a standard OOP, SOLID principles, refactoring, encapsulation
@@ -25,11 +25,17 @@ My decision to learn with Makers was a result of my bubbling curiosity in the te
 * Lead standups
 * Introduced to agile methodologies
 
-### Bedfordshire University(formerly Luton) (September 2003-July 2006)
+### Bedfordshire University(formerly Luton) (September 2003 - July 2006)
 * Studied accounting and finance
 * Degree included modules in Law, audit, statistics, management, taxation, investment, and accounting
 * Attained a BA(Hons) Accounting and Finance
 
 ## Experience
+### Accountant (February 2010 - November 2015)
+Kuwait Investment Office
+
+### Fund Administrator
+State Street Bank
 
 ## Contact
+kirks@hotmail.co.uk
