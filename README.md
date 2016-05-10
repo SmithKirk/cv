@@ -52,5 +52,9 @@ Kuwait Investment Office
 ### Fund Administrator (November 2006 - July 2008, August 2009 - November 2009)
 State Street Bank
 
+## Interests
+* Playing basketball has always been a passion. I have in past been selected to play for England.
+* A more recent hobby was playing Magic: The Gathering, a game that requires tactics to both build and play with a deck. 
+
 ## Contact
 kirks@hotmail.co.uk
