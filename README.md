@@ -22,8 +22,8 @@ I am looking for a junior development opportunity that will allow me to work alo
 
 ### Communication
 * A skill I have made a conscious effort to improve throughout my professional and personal life.
-* I have experience coaching and training individuals to reach their fitness goals. This often involves listening to the client to hear what they identify as the problems and what they want to achieve. Then after considering their input together with my knowledge and experience provide a plan of attack which I would then coach and encourage them through with continuos feedback.
-* The ability to find a solution for a client, based on the problem they have outlined I consider to have immense carry over into being developer.
+* I have experience coaching and training individuals to reach their fitness goals. This often involves listening to the client to hear what they identify as the problems and what they want to achieve. Then after considering their input together with my knowledge and experience, provide a plan of attack which I would then coach and encourage them through with continuos feedback.
+* The ability to find a solution for a client, based on the problem they have outlined I consider to have immense carry over into being a developer.
 
 ### Aptitude for learning
 * If something gets my curiosity I will normally have a strong desire to know more, and a keenness to understand and put into practice.
